@@ -1,0 +1,144 @@
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 2) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 3) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 4) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 5) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 6) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 7) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 8) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 9) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 10) message 'Initiate game' from initiator
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 2:39:43 PM com.gameplay.logging.Logging write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 2) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 3) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 4) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 5) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 6) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 7) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 8) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 9) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 10) message 'Initiate game' from initiator
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:05:11 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 2) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 3) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 4) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 5) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 6) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 7) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 8) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 9) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 10) message 'Initiate game' from initiator
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: initiator sent a message 'Initiate game' to player2
+Feb 14, 2021 3:54:00 PM com.gameplay.logging.Log write
+INFO: player2 received a (counter: 1) message 'Initiate game' from initiator

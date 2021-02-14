@@ -1,0 +1,4 @@
+com/gameplay/logging/Log.class
+com/gameplay/Game.class
+com/gameplay/PlayerStat.class
+com/gameplay/api/Player.class
