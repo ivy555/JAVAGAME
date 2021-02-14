@@ -26,6 +26,7 @@ Please focus on design and not on technology, the technology should be the simpl
 The focus of the exercise is to deliver the cleanest and clearest design that you can achieve (and the system has to be functional).
 
 Setup 
+
 Install java-8-openjdk-amd64
 
 add the path of openjdk
